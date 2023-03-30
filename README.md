@@ -1,17 +1,18 @@
-### Hi there 👋
+### Hi, I'm Zequan, Welcome to my Github!!
 
-[![Zequan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZequanHe&theme=dark)](https://github.com/ZequanHe/github-readme-stats)
 <!--
-**ZequanHe/ZequanHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-->
+I am:
+* Currently doing Masters of IT at The University of Melbourne, majoring in Artificial Intelligence, more in machine learning part!
+* Enthusiast to know the new thing in AI area and learn!
+* Enjoy to play games and walk around looking for beautiful landscape
+* Can speak in Chinese, Cantonese and English
+
+**Cheers!**
+
+[![Zequan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZequanHe&show_icons=true&theme=gotham)](https://github.com/ZequanHe/github-readme-stats)
+<!--
+
 -->
